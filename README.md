@@ -1,2 +1,9 @@
-# bounce-app
-BOUNCE — Healing-focused social discovery platform for people navigating breakups and emotional recovery. Built with Expo 54 + React Native + Expo Router, NativeWind, Reanimated, and more. Neon glows, glassmorphism, and good vibes only.
+BOUNCE — Healing-focused social discovery platform
+
+A beautiful neon-glow mobile app for emotional recovery after breakups.
+
+Built with Expo 54 + React Native 0.81 + Expo Router.
+
+See the full project on GitHub or run locally with `npm install && npx expo start`.
+
+Time to bounce back 💖
